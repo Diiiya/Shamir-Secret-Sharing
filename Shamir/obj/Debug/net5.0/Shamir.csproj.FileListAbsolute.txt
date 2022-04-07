@@ -1,0 +1,16 @@
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\bin\Debug\net5.0\Shamir.exe
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\bin\Debug\net5.0\Shamir.deps.json
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\bin\Debug\net5.0\Shamir.runtimeconfig.json
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\bin\Debug\net5.0\Shamir.runtimeconfig.dev.json
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\bin\Debug\net5.0\Shamir.dll
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\bin\Debug\net5.0\ref\Shamir.dll
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\bin\Debug\net5.0\Shamir.pdb
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\Shamir.csproj.AssemblyReference.cache
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\Shamir.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\Shamir.AssemblyInfoInputs.cache
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\Shamir.AssemblyInfo.cs
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\Shamir.csproj.CoreCompileInputs.cache
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\Shamir.dll
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\ref\Shamir.dll
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\Shamir.pdb
+D:\UNI\ITU\Security II\Shamir\Shamir\Shamir\obj\Debug\net5.0\Shamir.genruntimeconfig.cache
